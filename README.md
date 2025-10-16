@@ -1,3 +1,9 @@
+# DISCLAIMER
+
+This repository is NO LONGER maintained and not up-to-date! 
+
+For the latest version, please go to [https://github.com/UWCS/C_Course-Introduction](https://github.com/UWCS/C_Course-Introduction).
+
 # C Course Session 1 
 
 A basic, and hopefully gentle, introduction to the C Programming Language.
